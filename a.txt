@@ -2,8 +2,4 @@ algum texto qualquer v2
 texto v3
 
 
-<<<<<<< HEAD
-teste conflito 2
-
 teste de conflito 1
->>>>>>> 5ed85574407864a49722f81e6080d4e87bd58877
