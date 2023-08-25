@@ -1,2 +1,5 @@
 algum texto qualquer v2
 texto v3
+
+
+teste de conflito 1
